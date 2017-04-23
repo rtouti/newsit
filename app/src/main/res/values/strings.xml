@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="main_activity_label">All</string>
+    <string name="login">Log in</string>
+    <string name="username">Username :</string>
+    <string name="password">Password :</string>
+    <string name="drawer_connection">Connection</string>
+    <string name="drawer_all">All</string>
+    <string name="drawer_news">News</string>
+    <string name="drawer_science">Science</string>
+    <string name="drawer_sports">Sports</string>
+    <string name="drawer_economy">Economie</string>
+    <string name="drawer_technology">Technologie</string>
+    <string name="drawer_summaries">Résumés</string>
+    <string name="comments_label">Commentaires</string>
+    <string name="tab_hot">Hot</string>
+    <string name="tab_new">New</string>
+    <string name="tab_top">Top</string>
+
+    <string name="my_account">Mon compte</string>
+
+    <string name="preference">Préférences</string>
+    <string name="sorting">Tri</string>
+    <string name="text_size">Texte</string>
+
+    <string name="loading">Chargement...</string>
+    <string name="no_results">Aucun résultat</string>
+
+    <string name="search_text">Recherche...</string>
+    <string name="search_hint">Recherche...</string>
+
+    <string name="news_button">News</string>
+    <string name="favorites_button">Favorites</string>
+
+    <string name="add_comment">Add a comment</string>
+
+    <string name="time_sorting_hour">Hour</string>
+    <string name="time_sorting_day">Day</string>
+    <string name="time_sorting_week">Week</string>
+    <string name="time_sorting_month">Month</string>
+    <string name="time_sorting_year">Year</string>
+    <string name="time_sorting_all_time">All time</string>
+
+    <string name="comment_sorting_appreciated">Appreciated</string>
+    <string name="comment_sorting_new">New</string>
+    <string name="comment_sorting_controversial">Controversial</string>
+    <string name="comment_sorting_old">Old</string>
+</resources>
